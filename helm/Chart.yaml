@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-employee-certification
+description: "BIAN Service Domain: Employee Certification (Administer pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Human Resources"
+  bian/asset-type: "Certification Record"
+  bian/control-record: "Certification Record Administrative Plan"
